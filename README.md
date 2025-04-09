@@ -3,9 +3,11 @@
 ## What is this?
 
 This project is a C# Windows Forms Mario Maker like editor that I made and redid during my first and second years at the ETML (École Technique des Métiers de Lausanne) in 2021.
+
 Unfortunaly, the driver to play the created levels was never created.
 
-My orginal intentions making this app was to create a 2D platformer using Windows Forms. To make this work, I would have needed to create maps and such.
+My original intentions making this app was to create a 2D platformer using Windows Forms. To make this work, I would have needed to create maps and such.
+
 So, I decided to create an editor to create those maps and levels. First called MarioMakerExp and now TooDeePlatformerEditor.
 It first started as a simple application for myself to something I wanted to be used by others and became a much more complex project than originaly intended.
 Though keep in mind that it was only my first and second year as an apprentice Software Developper.
@@ -20,19 +22,19 @@ New **Obstacle Types** and **Special Types** can be added directly to the world.
 
 ## How to test it ?
 
-To open the editor, go to /TooDeePlatformer/TooDeePlatformerApp/Editor/TooDeePlatformerEditor.exe
+To open the editor, go to /TooDeePlatformer/TooDeePlatformerApp/Editor/TooDeePlatformerEditor.exe.
 Two test worlds are there. I advise opening Test10.
 
 ## How to access the code
 
 The code was made and compiled using Visual Studio 2019.
-The solution can be found here : /TooDeePlatformer/MarioMakerExp/MarioMakerExp.sln
-To simply view the code, it is mostly contained within /TooDeePlatformer/MarioMakerExp/MarioMakerExp/TooDeePlatformer/Editor/
+The solution can be found here : /TooDeePlatformer/MarioMakerExp/MarioMakerExp.sln.
+To simply view the code, it is mostly contained within /TooDeePlatformer/MarioMakerExp/MarioMakerExp/TooDeePlatformer/Editor/.
 
 ## How to use the editor
 
 When you open the Editor, you may either create a new world or open an already existing one. 
-Worlds are stored in /TooDeePlatformer/TooDeePlatformerApp/Worlds/
+Worlds are stored in /TooDeePlatformer/TooDeePlatformerApp/Worlds/.
 
 To add new **Obstacles** drag and release your pointer to select a zone.
 Then right click the selected zone and click Add From Selection>Obstacle.

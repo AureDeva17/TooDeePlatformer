@@ -10,7 +10,7 @@ My original intentions making this app was to create a 2D platformer using Windo
 
 So, I decided to create an editor to create those maps and levels. First called MarioMakerExp and now TooDeePlatformerEditor.
 It first started as a simple application for myself to something I wanted to be used by others and became a much more complex project than originaly intended.
-Though keep in mind that it was only my first and second year as an apprentice Software Developper.
+Though keep in mind that it was only my first and second year as an apprentice Software Developper when made.
 
 ## What can it do
 

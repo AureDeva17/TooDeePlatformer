@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarioMakerExp", "MarioMakerExp\MarioMakerExp.csproj", "{2C6DF448-48DB-4924-9AB1-455A3F0C05AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C6DF448-48DB-4924-9AB1-455A3F0C05AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C6DF448-48DB-4924-9AB1-455A3F0C05AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C6DF448-48DB-4924-9AB1-455A3F0C05AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6DF448-48DB-4924-9AB1-455A3F0C05AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF8289C0-CAA8-47FA-83E9-3651AD219EDC}
+	EndGlobalSection
+EndGlobal

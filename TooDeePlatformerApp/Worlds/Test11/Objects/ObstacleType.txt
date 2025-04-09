@@ -1,0 +1,7 @@
+V0.0.1
+ObstacleType
+3
+3
+0,0,Brick,100,100,True
+1,0,Grass,100,100,True
+2,0,Dirt,100,100,True

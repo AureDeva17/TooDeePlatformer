@@ -1,0 +1,8 @@
+V0.0.1
+Folder
+5
+4
+0,0,Folder 1,False,False,False
+1,0,Folder 2,True,True,False
+3,1,Folder 1,False,False,False
+4,1,Folder 2,True,True,False

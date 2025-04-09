@@ -1,0 +1,6 @@
+V0.0.1
+SpecialType
+2
+2
+0,0,Door,100,100,True,1,2,False,True,False,False,True
+1,0,Flag,100,100,True,1,8,False,False,False,True,True

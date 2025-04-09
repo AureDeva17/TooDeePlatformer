@@ -17,7 +17,7 @@ Though keep in mind that it was only my first and second year as an apprentice S
 The editor can create maps (**Worlds**) with different levels (**Dimensions**).
 Those dimensions can be filled with **Obstacles** with custom texture stored in the World's folder.
 Aside obstacles, some **Special Objects** can be added which can have special properties, such as killing the player, teleporting them to another place or Dimension, making the player win or triggering the movement set of a **Folder**.
-Folders contain groups of Obstacles and Special Objects and can have **Moves** assigned to them. Moves dictates how and where a Folder must move after being triggered.
+Folders contain groups of Obstacles and Special Objects and can have **Moves** assigned to them. Moves dictate how and where a Folder must move after being triggered.
 New **Obstacle Types** and **Special Types** can be added directly to the world.
 
 ## How to test it

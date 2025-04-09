@@ -1,6 +1,6 @@
 # TooDeePlatformer
 
-## What is this?
+## What is this
 
 This project is a C# Windows Forms Mario Maker like editor that I made and redid during my first and second years at the ETML (École Technique des Métiers de Lausanne) in 2021.
 
@@ -12,7 +12,7 @@ So, I decided to create an editor to create those maps and levels. First called 
 It first started as a simple application for myself to something I wanted to be used by others and became a much more complex project than originaly intended.
 Though keep in mind that it was only my first and second year as an apprentice Software Developper.
 
-## What can it do ?
+## What can it do
 
 The editor can create maps (**Worlds**) with different levels (**Dimensions**).
 Those dimensions can be filled with **Obstacles** with custom texture stored in the World's folder.
@@ -20,7 +20,7 @@ Aside obstacles, some **Special Objects** can be added which can have special pr
 Folders contain groups of Obstacles and Special Objects and can have **Moves** assigned to them. Moves dictates how and where a Folder must move after being triggered.
 New **Obstacle Types** and **Special Types** can be added directly to the world.
 
-## How to test it ?
+## How to test it
 
 To open the editor, go to /TooDeePlatformer/TooDeePlatformerApp/Editor/TooDeePlatformerEditor.exe.
 Two test worlds are there. I advise opening Test10.

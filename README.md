@@ -2,7 +2,7 @@
 
 ## What is this
 
-This project is a C# Windows Forms Mario Maker like editor that I made and redid during my first and second years at the ETML (École Technique des Métiers de Lausanne) in 2021.
+This project is a C# .NET Windows Forms Mario Maker like editor that I made and re-did during my first and second years at the ETML (École Technique des Métiers de Lausanne) in 2021.
 
 Unfortunaly, the driver to play the created levels was never created.
 
